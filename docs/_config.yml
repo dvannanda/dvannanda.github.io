@@ -33,7 +33,7 @@ domain: dvannanda.github.io       # if you want to force HTTPS, specify the doma
 url: https://dvannanda.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /docs/      # place folder name if the site is served in a subfolder   
 twitter_username: dvannanda
-github_username:  dvannanda
+github_username: dvannanda
 
 # Build settings
 remote_theme: benbalter/retlab
